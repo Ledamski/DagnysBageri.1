@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MormorDagnysBageri.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aeeaabb43e460828ee11f7317f9c7f04adc3972")]
 [assembly: System.Reflection.AssemblyProductAttribute("MormorDagnysBageri.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MormorDagnysBageri.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
