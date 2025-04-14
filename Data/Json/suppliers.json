@@ -1,0 +1,18 @@
+[
+    {
+        "SupplierId": 1,
+        "FirstName": "Viki",
+        "LastName": "Collin",
+        "ContactPerson": "Viki Collin",
+        "Email": "vcollin@gmail.com",
+        "Phone": "070-78 508 34"
+    },
+    {
+        "SupplierId": 2,
+        "FirstName": "Kirca",
+        "LastName": "Damnjanovski",
+        "ContactPerson": "Kirca Damnjanovski",
+        "Email": "kircdamn@gmail.com",
+        "Phone": "070-657 998 7"
+    }
+]

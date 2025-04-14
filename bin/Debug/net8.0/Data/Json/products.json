@@ -1,0 +1,14 @@
+[
+    {
+        "productName": "Mjöl",
+        "itemnumber": 123,
+        "quantity": 4,
+        "priceperkg": 13.45
+    },
+    {
+        "productName": "Tomat",
+        "itemnumber": 321,
+        "quantity": 3,
+        "priceperkg": 46.90
+    }  
+]

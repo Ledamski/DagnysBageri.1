@@ -1,0 +1,18 @@
+[
+    {
+        "SupplierId": 1,
+        "ProductId": 1,
+        "productName": "Tomat",
+        "itemnumber": 321,
+        "quantity": 1,
+        "priceperkg": 46.90
+    },
+    {
+        "SupplierId": 2,
+        "ProductId": 1,
+        "productName": "Tomat",
+        "itemnumber": 321,
+        "quantity": 1,
+        "priceperkg": 43.90
+    }
+]

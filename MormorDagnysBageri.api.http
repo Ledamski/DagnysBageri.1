@@ -1,0 +1,6 @@
+@MormorDagnysBageri.api_HostAddress = http://localhost:5137
+
+GET {{MormorDagnysBageri.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
